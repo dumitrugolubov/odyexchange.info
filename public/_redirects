@@ -1,0 +1,4 @@
+# Redirect domain aliases to primary domain
+http://www.odyexchange.info/* https://odyexchange.info/:splat 301!
+https://www.odyexchange.info/* https://odyexchange.info/:splat 301!
+http://odyexchange.info/* https://odyexchange.info/:splat 301!
